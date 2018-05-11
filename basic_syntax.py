@@ -13,7 +13,7 @@ total = i +\
 # brackets do not need '/' to continue on next Line
 
 # Quotes
-word = 'word'
+word = 'word' # comment
 sentence = "sentence"
 paragraph = '"paragraph"'
 # any of the above quotation marks can be used to indicate strings as long the start and then end quotes are the Statements
